@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+saved_models/
+uploads/
+.DS_Store
+Thumbs.db
